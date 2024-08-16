@@ -1,0 +1,1 @@
+Anyone trying to use this code can add more neurons and epochs to the model for better accuracy, This project is an image classification ML project based on CIFAR 10 dataset which is available in KERAS
